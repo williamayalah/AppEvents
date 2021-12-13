@@ -36,6 +36,3 @@ Paso 4: Ejecución del proyecto
             proyecto y escribir el comando:
             php artisan queue:work
 
-RECOMENDACIONES
-    Se debe estar conectado permanentemente a internet debido a que 
-    el front end cuanta con cdn's de bootstrap y jquery
